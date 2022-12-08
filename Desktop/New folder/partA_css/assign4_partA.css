@@ -132,3 +132,7 @@ tr:nth-child(even) {
 	margin-right: auto;
 	padding-bottom: 20px;
 }
+.abstractDiv {
+	padding: 10px;
+	background-color: #d3d3d3;
+}
